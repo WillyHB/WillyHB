@@ -1,10 +1,10 @@
 ```c#
 public class ReadMe
 {
-     string Name = $"{2-1}"
+     string Name = "AwfulWillyHBSofa" || "WillyHB";
      
-     string[] Interests = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art", "Gaming"}
+     string[] Interests = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art", "Gaming"};
     
-     string[] Languages = {"C#", "Typescript", "Javascript", "Html", "CSS" }
+     string[] Languages = {$"favourite {C#}", "Typescript", "Javascript", "Html", "CSS" };
 }
 ```
