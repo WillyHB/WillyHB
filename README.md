@@ -1,8 +1,14 @@
-- 👋 Hi, I’m WillyHB
-- 👀 I’m interested in Software Engineering and Music
-- 🌱 I’m currently learning Typescript
+```html
+<h2>Example of code</h2>
 
-<!---
-WillyHB/WillyHB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
