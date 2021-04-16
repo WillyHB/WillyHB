@@ -1,11 +1,10 @@
 ```c#
 public class ReadMe
 {
-    Interests string[] = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art"}
+     string Name = $"{2-1}"
+     
+     string[] Interests = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art", "Gaming"}
     
-    Languages string[] = {"C#", "Typescript", "Javascript", "Html", "CSS" }
-    
-    
-
+     string[] Languages = {"C#", "Typescript", "Javascript", "Html", "CSS" }
 }
 ```
