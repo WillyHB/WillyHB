@@ -5,7 +5,7 @@ public class ReadMe
      
      string[] Interests = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art", "Gaming"};
     
-     static string[] Languages = {"C#", "Typescript", "Javascript", "Html", "CSS" };
+     string[] Languages = {"C#", "Typescript", "Javascript", "Html", "CSS", "C++" };
      
      string FavouriteLanguage = Languages[0];
 }
