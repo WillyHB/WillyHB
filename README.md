@@ -1,12 +1,17 @@
 ```c#
 public class ReadMe
 {
-     string Name = "AwfulWillyHBSofa" || "WillyHB";
+     string Name = "WillyHB";
      
-     string[] Interests = {"Music(Piano/Guitar)", "Gamedev", "Webdev", "Pixel Art", "Gaming"};
+     string[] Interests = {"Music", "Gamedev", "Pixel Art", "Gaming"};
     
-     string[] Languages = {"C#", "Typescript", "Javascript", "Html", "CSS", "C++" };
+     string[] Languages = {"C#", "Javascript", "Html", "CSS", "C++" };
      
-     string FavouriteLanguage = Languages[0];
+     string FavouriteLanguage = "C#";
+     
+     public static void Main(string[] args)
+     {
+          Console.WriteLine("I am programer\n :)");
+     }
 }
 ```
