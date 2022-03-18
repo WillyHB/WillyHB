@@ -11,7 +11,7 @@ public class ReadMe
      
      public static void Main(string[] args)
      {
-          Console.WriteLine("I am programer\n :)");
+          Console.WriteLine("Welcome to my super awesome profile :)");
      }
 }
 ```
