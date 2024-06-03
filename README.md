@@ -5,7 +5,7 @@ public class ReadMe
      
      string[] Interests = {"Music", "Gamedev", "Pixel Art", "Gaming"};
     
-     string[] Languages = {"C#", "Javascript", "Html", "CSS", "C++" };
+     string[] Languages = {"C#", "Javascript", "Html", "CSS", "C++", C, Bash };
      
      string FavouriteLanguage = "C#";
      
