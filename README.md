@@ -1,17 +1,17 @@
 ```c#
 public class ReadMe
 {
-     string Name = "WillyHB";
+     string Name = "William Hansen-Baird";
      
      string[] Interests = {"Music", "Gamedev", "Pixel Art", "Gaming"};
     
-     string[] Languages = {"C#", "Javascript", "Html", "CSS", "C++", C, Bash };
+     string[] Languages = {"Rust, "C#", "Javascript", "Html", "CSS", "C++", "C", "Bash" };
      
-     string FavouriteLanguage = "C#";
+     string FavouriteLanguages = "C#/Rust";
      
      public static void Main(string[] args)
      {
-          Console.WriteLine("Welcome to my super awesome profile :)");
+          Console.WriteLine("Welcome to my profile :)");
      }
 }
 ```
