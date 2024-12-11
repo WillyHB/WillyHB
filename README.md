@@ -3,7 +3,7 @@ public class ReadMe
 {
      string Name = "William Hansen-Baird";
      
-     string[] Interests = {"Music", "Gamedev", "Pixel Art", "Gaming"};
+     string[] Interests = {"Music", "Gamedev", "Pixel Art", "Video Games"};
     
      string[] Languages = {"Rust, "C#", "Javascript", "Html", "CSS", "C++", "C", "Bash" };
      
