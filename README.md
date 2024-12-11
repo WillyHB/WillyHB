@@ -1,17 +1,24 @@
-```c#
-public class ReadMe
-{
-     string Name = "William Hansen-Baird";
-     
-     string[] Interests = {"Music", "Gamedev", "Pixel Art", "Video Games"};
-    
-     string[] Languages = {"Rust, "C#", "Javascript", "Html", "CSS", "C++", "C", "Bash" };
-     
-     string FavouriteLanguages = "C#/Rust";
-     
-     public static void Main(string[] args)
-     {
-          Console.WriteLine("Welcome to my profile :)");
-     }
+```rust
+struct ReadMe {
+    name: String,
+    interests: Vec<&'static str>,
+    languages: Vec<&'static str>,
+    favourite_languages: String,
 }
+
+impl ReadMe {
+    fn new() -> Self {
+        ReadMe {
+            name: "William Hansen-Baird".to_string(),
+            interests: vec!["Music", "Gamedev", "Pixel Art", "Video Games"],
+            languages: vec!["Rust", "C#", "Javascript", "Html", "CSS", "C++", "C", "Bash"],
+            favourite_languages: "C#/Rust".to_string(),
+        }
+    }
+
+    fn display_greeting() {
+        println!("Welcome to my profile :)");
+    }
+}
+
 ```
